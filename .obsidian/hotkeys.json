@@ -1,0 +1,18 @@
+{
+  "editor:set-heading-2": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "3"
+    }
+  ],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F2"
+    }
+  ]
+}
