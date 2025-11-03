@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "strictLineBreaks": false,
   "foldIndent": true,
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "мусор",
+  "newFileLocation": "current"
 }
