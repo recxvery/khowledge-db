@@ -13,30 +13,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang/Модули и пакеты.md",
+                "file": "Алгоритмы/Паттерны/3Sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Модули и пакеты"
+              "title": "3Sum"
             }
           },
           {
-            "id": "f964e72994e20ee7",
+            "id": "2a240ae367709958",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang/Структуры.md",
+                "file": "Алгоритмы/Паттерны/3Sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Структуры"
+              "title": "3Sum"
+            }
+          },
+          {
+            "id": "a4420ff49b757cc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгоритмы. Влад Тен/Two Pointers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Two Pointers"
+            }
+          },
+          {
+            "id": "ae4d100f7ed247c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгоритмы. Влад Тен/Sliding Window.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sliding Window"
+            }
+          },
+          {
+            "id": "cf3abbd4fbea67d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгоритмы/Мои паттерны.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Мои паттерны"
+            }
+          },
+          {
+            "id": "427a055c4c1ddaa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгоритмы. Влад Тен/Two Pointers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Two Pointers"
+            }
+          },
+          {
+            "id": "34d61b87e86e106f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгоритмы/Пост решение.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Пост решение"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -198,53 +268,52 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f964e72994e20ee7",
+  "active": "427a055c4c1ddaa5",
   "lastOpenFiles": [
-    "Golang/Интерфейсы.md",
+    "Алгоритмы. Влад Тен/Sliding Window.md",
+    "Алгоритмы. Влад Тен/Untitled.md",
+    "Golang/Условия.md",
+    "Алгоритмы/Паттерны/3Sum.md",
+    "Алгоритмы. Влад Тен/Two Pointers.md",
+    "мусор/Pasted image 20251117000910.png",
+    "мусор/Pasted image 20251117000747.png",
+    "мусор/Pasted image 20251116233828.png",
+    "Алгоритмы/Паттерны/Two Sums.md",
+    "Алгоритмы/Мои паттерны.md",
+    "Алгоритмы/Untitled 1.md",
+    "Алгоритмы/Пост решение.md",
+    "Алгоритмы. Влад Тен/Решение задач RoadMap.md",
+    "Алгоритмы. Влад Тен/Big o.md",
+    "мусор/Pasted image 20251116150701.png",
+    "мусор/Pasted image 20251116150021.png",
+    "Алгоритмы/Алгоритм.md",
+    "мусор/Pasted image 20251116113456.png",
+    "мусор/Pasted image 20251113085006.png",
+    "мусор/{D95EF7B3-A0D6-423F-B252-D2E3117D7D97}.png",
+    "Golang/Defer.md",
+    "мусор/Pasted image 20251106174007.png",
     "Golang/Модули и пакеты.md",
-    "Golang/Интерфейсы",
+    "Алгоритмы/Паттерны",
+    "Алгоритмы",
+    "Untitled 1",
+    "Untitled",
+    "ЕБАНУТЫЕ ЗАДАЧИ/two sums.md",
+    "Golang/map'ы.md",
+    "Golang/Untitled.md",
     "Golang/Структуры.md",
+    "Golang/Интерфейсы.md",
+    "мусор/Pasted image 20251105195830.png",
     "Golang/Обработка ошибок.md",
+    "Golang/Функции.md",
+    "Golang/Интерфейсы",
     "Golang/package-variables-data types/package-variables-data types.md",
     "Golang/Массивы в GO/func init().md",
     "Golang/Ввод-Вывод, строки/Ввод-Вывод, строки.md",
     "Golang/Массивы в GO/Pointers(указатели).md",
-    "Golang/Массивы в GO/Массивы в GO.md",
-    "Golang/map'ы.md",
-    "Golang/Функции.md",
-    "Golang/Циклы.md",
-    "Golang/Условия.md",
-    "мусор/Pasted image 20251006042307.png",
-    "начертательная геометрия/Лекция 2.md",
-    "мусор/Pasted image 20251006045917.png",
-    "мусор/Pasted image 20251006045801.png",
-    "Roadmap.md",
-    "мусор/Pasted image 20251006023659.png",
-    "мусор/Pasted image 20251006043244.png",
-    "мусор/Pasted image 20251006043130.png",
-    "мусор/Pasted image 20251006042936.png",
-    "мусор/Pasted image 20251006042719.png",
-    "начертательная геометрия/Лекция 1.md",
-    "мусор/Pasted image 20251006040933.png",
-    "мусор/Pasted image 20251006040011.png",
     "начертательная геометрия",
-    "Welcome.md",
-    "Python.md",
-    "Без названия.md",
-    "Без названия 1.md",
-    "Golang/Работа с файлами/Работа с файлами.md",
-    "create a link.md",
-    "2025-09-02.md",
-    "Golang/Defer.md",
-    "pet projects/GO movie CRUD.md",
     "main.go",
     "go.sum",
     "go.mod",
-    "ЕБАНУТЫЕ ЗАДАЧИ/two sums.md",
-    "Без названия",
-    "pet projects",
-    "ЕБАНУТЫЕ ЗАДАЧИ",
-    "Алгоритмы. Влад Тен",
-    "Notion/Golang/Массивы в GO/Pointers"
+    "Без названия"
   ]
 }
