@@ -8,87 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d10a1716cb5f09b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Алгоритмы/Паттерны/3Sum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3Sum"
-            }
-          },
-          {
-            "id": "2a240ae367709958",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Алгоритмы/Паттерны/3Sum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3Sum"
-            }
-          },
-          {
             "id": "a4420ff49b757cc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгоритмы. Влад Тен/Two Pointers.md",
+                "file": "Алгоритмы. Влад Тен/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Two Pointers"
-            }
-          },
-          {
-            "id": "ae4d100f7ed247c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Алгоритмы. Влад Тен/Sliding Window.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sliding Window"
-            }
-          },
-          {
-            "id": "cf3abbd4fbea67d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Алгоритмы/Мои паттерны.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Мои паттерны"
-            }
-          },
-          {
-            "id": "427a055c4c1ddaa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Алгоритмы. Влад Тен/Two Pointers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Two Pointers"
+              "title": "Untitled"
             }
           },
           {
@@ -105,8 +35,7 @@
               "title": "Пост решение"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -268,21 +197,24 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "427a055c4c1ddaa5",
+  "active": "a4420ff49b757cc9",
   "lastOpenFiles": [
-    "Алгоритмы. Влад Тен/Sliding Window.md",
-    "Алгоритмы. Влад Тен/Untitled.md",
-    "Golang/Условия.md",
-    "Алгоритмы/Паттерны/3Sum.md",
     "Алгоритмы. Влад Тен/Two Pointers.md",
+    "Алгоритмы. Влад Тен/Untitled.md",
+    "Алгоритмы. Влад Тен/Sliding Window.md",
+    "Алгоритмы. Влад Тен/Решение задач RoadMap.md",
+    "Алгоритмы/Пост решение.md",
+    "Алгоритмы/Паттерны/3Sum.md",
+    "Алгоритмы/Мои паттерны.md",
+    "Golang/map'ы.md",
+    "мусор/Pasted image 20251117175229.png",
+    "мусор/Pasted image 20251117163738.png",
+    "Golang/Условия.md",
     "мусор/Pasted image 20251117000910.png",
     "мусор/Pasted image 20251117000747.png",
     "мусор/Pasted image 20251116233828.png",
     "Алгоритмы/Паттерны/Two Sums.md",
-    "Алгоритмы/Мои паттерны.md",
     "Алгоритмы/Untitled 1.md",
-    "Алгоритмы/Пост решение.md",
-    "Алгоритмы. Влад Тен/Решение задач RoadMap.md",
     "Алгоритмы. Влад Тен/Big o.md",
     "мусор/Pasted image 20251116150701.png",
     "мусор/Pasted image 20251116150021.png",
@@ -291,18 +223,15 @@
     "мусор/Pasted image 20251113085006.png",
     "мусор/{D95EF7B3-A0D6-423F-B252-D2E3117D7D97}.png",
     "Golang/Defer.md",
-    "мусор/Pasted image 20251106174007.png",
     "Golang/Модули и пакеты.md",
     "Алгоритмы/Паттерны",
     "Алгоритмы",
     "Untitled 1",
     "Untitled",
     "ЕБАНУТЫЕ ЗАДАЧИ/two sums.md",
-    "Golang/map'ы.md",
     "Golang/Untitled.md",
     "Golang/Структуры.md",
     "Golang/Интерфейсы.md",
-    "мусор/Pasted image 20251105195830.png",
     "Golang/Обработка ошибок.md",
     "Golang/Функции.md",
     "Golang/Интерфейсы",
