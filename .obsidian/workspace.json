@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгоритмы. Влад Тен/Untitled.md",
+                "file": "Golang/map'ы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "map'ы"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгоритмы/Пост решение.md",
+                "file": "Golang/map'ы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пост решение"
+              "title": "map'ы"
             }
           }
         ]
@@ -199,17 +199,31 @@
   },
   "active": "a4420ff49b757cc9",
   "lastOpenFiles": [
-    "Алгоритмы. Влад Тен/Two Pointers.md",
+    "Golang/Untitled.base",
+    "Golang/map'ы.md",
+    "Golang/Untitled.md",
+    "Golang/Обработка ошибок.md",
+    "Untitled 2",
+    "Golang/Интерфейсы.md",
+    "Golang/Массивы в GO/func init().md",
+    "Golang/Массивы в GO/Pointers(указатели).md",
+    "Golang/Массивы в GO/Массивы в GO.md",
+    "Golang/package-variables-data types/package-variables-data types.md",
+    "Golang/Модули и пакеты.md",
+    "Golang/Ввод-Вывод, строки/Ввод-Вывод, строки.md",
+    "мусор/Pasted image 20251123203810.png",
+    "Алгоритмы/Пост решение.md",
+    "Golang/Структуры.md",
+    "Golang/Условия.md",
+    "мусор/Pasted image 20251123192915.png",
     "Алгоритмы. Влад Тен/Untitled.md",
+    "Алгоритмы. Влад Тен/Two Pointers.md",
     "Алгоритмы. Влад Тен/Sliding Window.md",
     "Алгоритмы. Влад Тен/Решение задач RoadMap.md",
-    "Алгоритмы/Пост решение.md",
     "Алгоритмы/Паттерны/3Sum.md",
     "Алгоритмы/Мои паттерны.md",
-    "Golang/map'ы.md",
     "мусор/Pasted image 20251117175229.png",
     "мусор/Pasted image 20251117163738.png",
-    "Golang/Условия.md",
     "мусор/Pasted image 20251117000910.png",
     "мусор/Pasted image 20251117000747.png",
     "мусор/Pasted image 20251116233828.png",
@@ -220,29 +234,15 @@
     "мусор/Pasted image 20251116150021.png",
     "Алгоритмы/Алгоритм.md",
     "мусор/Pasted image 20251116113456.png",
-    "мусор/Pasted image 20251113085006.png",
-    "мусор/{D95EF7B3-A0D6-423F-B252-D2E3117D7D97}.png",
     "Golang/Defer.md",
-    "Golang/Модули и пакеты.md",
     "Алгоритмы/Паттерны",
     "Алгоритмы",
     "Untitled 1",
     "Untitled",
     "ЕБАНУТЫЕ ЗАДАЧИ/two sums.md",
-    "Golang/Untitled.md",
-    "Golang/Структуры.md",
-    "Golang/Интерфейсы.md",
-    "Golang/Обработка ошибок.md",
-    "Golang/Функции.md",
     "Golang/Интерфейсы",
-    "Golang/package-variables-data types/package-variables-data types.md",
-    "Golang/Массивы в GO/func init().md",
-    "Golang/Ввод-Вывод, строки/Ввод-Вывод, строки.md",
-    "Golang/Массивы в GO/Pointers(указатели).md",
     "начертательная геометрия",
     "main.go",
-    "go.sum",
-    "go.mod",
-    "Без названия"
+    "go.sum"
   ]
 }
