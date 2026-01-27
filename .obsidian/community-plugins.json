@@ -4,5 +4,7 @@
   "code-styler",
   "obsidian-git",
   "github-sync",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-emoji-toolbar",
+  "obsidian-linter"
 ]
