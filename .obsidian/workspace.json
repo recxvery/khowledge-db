@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang/Конкурентность/Планировщик.md",
+                "file": "Golang/Конкурентность(собесы + углубление_/Аксиомы каналов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Планировщик"
+              "title": "Аксиомы каналов"
             }
           },
           {
-            "id": "602d20dfb93c06d2",
+            "id": "46705000f101e328",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang/Конкурентность/Горутины и каналы.md",
+                "file": "Golang/Конкурентность/Закрытие каналов. Аксиома каналов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Горутины и каналы"
+              "title": "Закрытие каналов. Аксиома каналов"
             }
           }
         ]
@@ -200,24 +200,25 @@
   },
   "active": "5aac93ce56755e8e",
   "lastOpenFiles": [
-    "мусор/Pasted image 20260127161051.png",
-    "мусор/Pasted image 20260127160954.png",
-    "мусор/Pasted image 20260127160922.png",
-    "мусор/Pasted image 20260127160853.png",
-    "мусор/Pasted image 20260127160754.png",
-    "мусор/Pasted image 20260127160700.png",
+    "Golang/Конкурентность(собесы + углубление_/Планировщик.md",
+    "Golang/Конкурентность(собесы + углубление_/Каналы в GO угубленно..md",
+    "Golang/Конкурентность(собесы + углубление_/Аксиомы каналов.md",
+    "Golang/Конкурентность(собесы + углубление_/Concurrency based.md",
+    "Golang/Конкурентность/Закрытие каналов. Аксиома каналов.md",
+    "мусор/Pasted image 20260129151324.png",
+    "мусор/Pasted image 20260129151149.png",
     "Golang/Конкурентность/Горутины и каналы.md",
-    "Golang/Конкурентность/Планировщик.md",
-    "мусор/Pasted image 20260127154639.png",
-    "мусор/Pasted image 20260127154625.png",
-    "мусор/Pasted image 20260127154358.png",
-    "мусор/Pasted image 20260127153929.png",
-    "мусор/Pasted image 20260126162521.png",
-    "Golang/Конкурентность(собесы + углубление_",
-    "Golang/Конкурентность/Concurrency based.md",
     "Golang/Конкурентность/Select.md",
     "Golang/Конкурентность/Context.md",
-    "Golang/Конкурентность/Закрытие каналов. Аксиома каналов.md",
+    "мусор/Pasted image 20260128162343.png",
+    "мусор/Pasted image 20260128162259.png",
+    "мусор/Pasted image 20260128162212.png",
+    "мусор/Pasted image 20260128162127.png",
+    "мусор/Pasted image 20260128162045.png",
+    "мусор/Pasted image 20260128161917.png",
+    "мусор/Pasted image 20260128161835.png",
+    "мусор/Pasted image 20260128161818.png",
+    "Golang/Конкурентность(собесы + углубление_",
     "Математика/Предел функции.md",
     "Golang/Массивы в GO/Массивы в GO.md",
     "Математика",
@@ -239,8 +240,6 @@
     "pet projects/GO movie CRUD.md",
     "pet projects/simple crud.md",
     "Golang/Работа с файлами/Работа с файлами (углублённо) 2.md",
-    "Golang/Работа с файлами/Работа с файлами(углублённо).md",
-    "Golang/Работа с файлами/strings + прочие библиотеки.md",
     "Работа с файлами(углублённо) 3",
     "Untitled 2",
     "Алгоритмы/Паттерны",
