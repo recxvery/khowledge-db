@@ -1,0 +1,2 @@
+
+"smart_sources:Golang/Циклы.md": {"path":"Golang/Циклы.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"1wb1tlz","at":1769950771073},"class_name":"SmartSource","last_import":{"mtime":1759944372198,"size":990,"at":1769950771074,"hash":"1wb1tlz"},"blocks":{"#":[1,62]},"outlinks":[{"title":"Обработка ошибок","target":"Обработка ошибок","line":1},{"title":"Массивы в GO","target":"Массивы в GO","line":2}],"task_lines":[],"tasks":{},"codeblock_ranges":[[7,11],[20,28],[32,40],[48,58]]},

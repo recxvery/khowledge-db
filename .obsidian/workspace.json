@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5aac93ce56755e8e",
+            "id": "c30947ae4c18af17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang/Конкурентность(собесы + углубление_/Аксиомы каналов.md",
+                "file": "Golang/Конкурентность/Конкурентность(лысый)/Аксиомы каналов.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,17 +22,27 @@
             }
           },
           {
-            "id": "46705000f101e328",
+            "id": "e8ff69311a6c90b6",
+            "type": "leaf",
+            "state": {
+              "type": "smart-release-notes-view",
+              "state": {},
+              "icon": "file-text",
+              "title": "Release Notes"
+            }
+          },
+          {
+            "id": "3487fc780c930dc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang/Конкурентность/Закрытие каналов. Аксиома каналов.md",
+                "file": "mindset/rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Закрытие каналов. Аксиома каналов"
+              "title": "rules"
             }
           }
         ]
@@ -148,7 +158,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Теги"
             }
           },
           {
@@ -157,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/Golang/Defer.md",
+                "file": "Golang/Конкурентность/Конкурентность(лысый)/Аксиомы каналов.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Defer"
+              "title": "Структура Аксиомы каналов"
             }
           },
           {
@@ -175,13 +185,33 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e105b4a2e38fc617",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "cbb819e26431acba",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,58 +222,62 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-git:Open Git source control": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "copilot:Open Copilot Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "5aac93ce56755e8e",
+  "active": "27a808bd3965c134",
   "lastOpenFiles": [
-    "Golang/Конкурентность(собесы + углубление_/Планировщик.md",
-    "Golang/Конкурентность(собесы + углубление_/Каналы в GO угубленно..md",
-    "Golang/Конкурентность(собесы + углубление_/Аксиомы каналов.md",
-    "Golang/Конкурентность(собесы + углубление_/Concurrency based.md",
-    "Golang/Конкурентность/Закрытие каналов. Аксиома каналов.md",
-    "мусор/Pasted image 20260129151324.png",
-    "мусор/Pasted image 20260129151149.png",
-    "Golang/Конкурентность/Горутины и каналы.md",
-    "Golang/Конкурентность/Select.md",
-    "Golang/Конкурентность/Context.md",
-    "мусор/Pasted image 20260128162343.png",
-    "мусор/Pasted image 20260128162259.png",
-    "мусор/Pasted image 20260128162212.png",
-    "мусор/Pasted image 20260128162127.png",
-    "мусор/Pasted image 20260128162045.png",
-    "мусор/Pasted image 20260128161917.png",
-    "мусор/Pasted image 20260128161835.png",
-    "мусор/Pasted image 20260128161818.png",
-    "Golang/Конкурентность(собесы + углубление_",
-    "Математика/Предел функции.md",
-    "Golang/Массивы в GO/Массивы в GO.md",
-    "Математика",
-    "Golang/Статистика.md",
-    "Golang/Структуры.md",
-    "Golang/Untitled.md",
-    "Golang/Функции.md",
-    "Golang/Условия.md",
-    "мусор/Untitled.base",
-    "Golang/Map'ы под капотом.md",
-    "Golang/Дженерики.md",
+    "Golang/Конкурентность/Планировщик(тузов).md",
+    "мусор/Pasted image 20260201162830.png",
+    "мусор/Pasted image 20260201162120.png",
+    "мусор/Pasted image 20260201160736.png",
+    "мусор/Pasted image 20260201160720.png",
+    "copilot/copilot-conversations/можешь_ли_ты_сделать_список_заголвков_в_этой@20260201_155819.md",
+    "copilot/copilot-conversations",
+    "copilot",
+    "Golang/Интерфейсы.md",
+    "Алгоритмы. Влад Тен/Решение задач RoadMap.md",
     "Алгоритмы. Влад Тен/Хэш таблицы.md",
-    "Golang/map'ы.md",
-    "Excalidraw/Drawing 2026-01-11 01.45.41.excalidraw.md",
-    "Golang/Конкурентность",
-    "Excalidraw/Drawing 2026-01-04 07.15.16.excalidraw.md",
-    "Excalidraw",
-    "pet projects/simple crud with Gin.md",
-    "pet projects/GO movie CRUD.md",
-    "pet projects/simple crud.md",
-    "Golang/Работа с файлами/Работа с файлами (углублённо) 2.md",
-    "Работа с файлами(углублённо) 3",
-    "Untitled 2",
-    "Алгоритмы/Паттерны",
-    "Алгоритмы",
-    "Untitled 1"
+    "Golang/Конкурентность/Конкурентность(лысый)/Планировщик.md",
+    "мусор/Pasted image 20260201151305.png",
+    "мусор/Pasted image 20260201150734.png",
+    "мусор/Pasted image 20260201145543.png",
+    "мусор/Pasted image 20260201145007.png",
+    "мусор/Pasted image 20260201144219.png",
+    "мусор/Pasted image 20260201143924.png",
+    "Golang/Конкурентность/Конкурентность(nilchan)/Select.md",
+    "Golang/Обработка ошибок в Go.md",
+    "2024-2025/Frontend development/roadmaps 19c258bcf27280118245cf5e4b043e0d.md",
+    "2024-2025/Frontend development/JavaScript 195258bcf2728051858cccb41b1ce17a.md",
+    "2024-2025/Frontend development/HTML fe3a9890cdd04abeb2adcb0ddb8f10e1.md",
+    "2024-2025/Frontend development/CSS 46bf8538815a4009b58aab10e6630401.md",
+    "2024-2025/Frontend development/HTML/Сущности(entities) 1dd9157f05b6460abc21c128641a4687.md",
+    "2024-2025/Frontend development/HTML/Таблицы b79f6a05b7064df8ab717652d3fae841.md",
+    "2024-2025/Frontend development/HTML/Формы be99048a86c2452085acea902e38e91c.md",
+    "mindset/Статистика.md",
+    "Notion/Club Homepage/Finance & sponsorships/Email Templates/Administrative Asks/Unsuccessful Emails/Funding for Camping Transportation fea64570dd584084b5bfd793e3c8980f.md",
+    "Notion/Cornell Notes System/Untitled e0219efe2c0048e09cb349e6d059e54a.md",
+    "Notion/Grade Calculator/Course Title/Untitled 7dd2bd14a8754e7891be448d20a809d9.md",
+    "Notion/Grade Calculator/English 001/Essay 1 f3352258a00f486ea067eb928349fb23.md",
+    "2024-2025/Frontend development/JavaScript/Переменные 19f258bcf272806e92a0d19bdd8a8b3f.md",
+    "2024-2025/Frontend development/JavaScript/Функции 1b9258bcf27280f0a8b1c67c9a63606f.md",
+    "2024-2025/Frontend development/JavaScript/Типы данных 19f258bcf27280bd90f8d1bf49ed99cb.md",
+    "2024-2025/Golang/Условия 1dc258bcf27280ecb850c2bbaa800750.md",
+    "2024-2025/Java/Логические конструкции в Java 80a3b8bf09c84c13b7056314eb7e811e.md",
+    "Notion/Grade Calculator/English 001 06e1422eb1954fbdabe5e22c302510d3_all.csv",
+    "Notion/Grade Calculator/Course Title c2193bedb82d482aabb70239d0c8ee60_all.csv",
+    "Notion/Grade Calculator/English 001 06e1422eb1954fbdabe5e22c302510d3.csv",
+    "Notion/Grade Calculator/English 001",
+    "Notion/Grade Calculator/Course Title c2193bedb82d482aabb70239d0c8ee60.csv",
+    "Notion/Grade Calculator/Course Title",
+    "Notion/Grade Calculator",
+    "Notion/Club Homepage/Finance & sponsorships/Finances/Spending History/2022 Finances 4b5b6651f7bd4f3c808beb924d27e358_all.csv"
   ]
 }

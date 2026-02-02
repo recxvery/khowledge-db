@@ -3,5 +3,12 @@
   "strictLineBreaks": false,
   "foldIndent": true,
   "attachmentFolderPath": "мусор",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

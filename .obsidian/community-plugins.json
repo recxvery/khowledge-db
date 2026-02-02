@@ -6,5 +6,7 @@
   "github-sync",
   "obsidian-excalidraw-plugin",
   "obsidian-emoji-toolbar",
-  "obsidian-linter"
+  "obsidian-linter",
+  "copilot",
+  "smart-connections"
 ]
