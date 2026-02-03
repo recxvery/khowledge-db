@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang/Конкурентность/Конкурентность(лысый)/Аксиомы каналов.md",
+                "file": "Golang/Конкурентность/Планировщик(тузов).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Аксиомы каналов"
+              "title": "Планировщик(тузов)"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/Golang/Defer.md",
+                "file": "Golang/Конкурентность/Планировщик(тузов).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Defer"
+              "title": "Исходящие ссылки из Планировщик(тузов)"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Golang/Конкурентность/Конкурентность(лысый)/Аксиомы каналов.md",
+                "file": "Golang/Конкурентность/Планировщик(тузов).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Аксиомы каналов"
+              "title": "Структура Планировщик(тузов)"
             }
           },
           {
@@ -184,26 +184,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "e105b4a2e38fc617",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
-          },
-          {
-            "id": "cbb819e26431acba",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
             }
           }
         ],
@@ -232,9 +212,34 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "27a808bd3965c134",
+  "active": "c30947ae4c18af17",
   "lastOpenFiles": [
+    "мусор/Pasted image 20260203135523.png",
+    "Golang/package-variables-data types/package-variables-data types(типы данных).md",
+    "Golang/Ввод-Вывод, строки/Ввод-Вывод, строки.md",
+    "Golang/Конкурентность/Конкурентность(nilchan)/Select.md",
+    "Golang/Конкурентность/Конкурентность(лысый)/select(углубленно).md",
+    "2024-2025/Golang 1d6258bcf27280768f60eb0da8cede76.md",
+    "Golang/Дженерики.md",
+    "Golang/Модули и пакеты.md",
+    "Golang/Map'ы под капотом.md",
+    "Golang/Работа с файлами/Работа с файлами(углублённо).md",
+    "Golang/Конкурентность/Конкурентность(лысый)/Аксиомы каналов.md",
+    "Golang/Конкурентность/Конкурентность(лысый)/Планировщик.md",
     "Golang/Конкурентность/Планировщик(тузов).md",
+    "Golang/Функции 1d9258bcf2728053b420db695590bb74.md",
+    "Golang/Обработка ошибок 1de258bcf272807e85d6d0117c35a81b.md",
+    "Golang/Работа с файлами/Работа с файлами.md",
+    "Golang/Работа с файлами/Работа с файлами (углублённо) 2.md",
+    "Golang/Обработка ошибок в Go.md",
+    "Golang/Обработка ошибок.md",
+    "Golang/Структуры.md",
+    "Golang/map'ы.md",
+    "Golang/Defer.md",
+    "Golang/Интерфейсы.md",
+    "мусор/Pasted image 20260203124554.png",
+    "мусор/Pasted image 20260203023719.png",
+    "mindset/rules.md",
     "мусор/Pasted image 20260201162830.png",
     "мусор/Pasted image 20260201162120.png",
     "мусор/Pasted image 20260201160736.png",
@@ -242,35 +247,11 @@
     "copilot/copilot-conversations/можешь_ли_ты_сделать_список_заголвков_в_этой@20260201_155819.md",
     "copilot/copilot-conversations",
     "copilot",
-    "Golang/Интерфейсы.md",
     "Алгоритмы. Влад Тен/Решение задач RoadMap.md",
-    "Алгоритмы. Влад Тен/Хэш таблицы.md",
-    "Golang/Конкурентность/Конкурентность(лысый)/Планировщик.md",
     "мусор/Pasted image 20260201151305.png",
     "мусор/Pasted image 20260201150734.png",
     "мусор/Pasted image 20260201145543.png",
     "мусор/Pasted image 20260201145007.png",
-    "мусор/Pasted image 20260201144219.png",
-    "мусор/Pasted image 20260201143924.png",
-    "Golang/Конкурентность/Конкурентность(nilchan)/Select.md",
-    "Golang/Обработка ошибок в Go.md",
-    "2024-2025/Frontend development/roadmaps 19c258bcf27280118245cf5e4b043e0d.md",
-    "2024-2025/Frontend development/JavaScript 195258bcf2728051858cccb41b1ce17a.md",
-    "2024-2025/Frontend development/HTML fe3a9890cdd04abeb2adcb0ddb8f10e1.md",
-    "2024-2025/Frontend development/CSS 46bf8538815a4009b58aab10e6630401.md",
-    "2024-2025/Frontend development/HTML/Сущности(entities) 1dd9157f05b6460abc21c128641a4687.md",
-    "2024-2025/Frontend development/HTML/Таблицы b79f6a05b7064df8ab717652d3fae841.md",
-    "2024-2025/Frontend development/HTML/Формы be99048a86c2452085acea902e38e91c.md",
-    "mindset/Статистика.md",
-    "Notion/Club Homepage/Finance & sponsorships/Email Templates/Administrative Asks/Unsuccessful Emails/Funding for Camping Transportation fea64570dd584084b5bfd793e3c8980f.md",
-    "Notion/Cornell Notes System/Untitled e0219efe2c0048e09cb349e6d059e54a.md",
-    "Notion/Grade Calculator/Course Title/Untitled 7dd2bd14a8754e7891be448d20a809d9.md",
-    "Notion/Grade Calculator/English 001/Essay 1 f3352258a00f486ea067eb928349fb23.md",
-    "2024-2025/Frontend development/JavaScript/Переменные 19f258bcf272806e92a0d19bdd8a8b3f.md",
-    "2024-2025/Frontend development/JavaScript/Функции 1b9258bcf27280f0a8b1c67c9a63606f.md",
-    "2024-2025/Frontend development/JavaScript/Типы данных 19f258bcf27280bd90f8d1bf49ed99cb.md",
-    "2024-2025/Golang/Условия 1dc258bcf27280ecb850c2bbaa800750.md",
-    "2024-2025/Java/Логические конструкции в Java 80a3b8bf09c84c13b7056314eb7e811e.md",
     "Notion/Grade Calculator/English 001 06e1422eb1954fbdabe5e22c302510d3_all.csv",
     "Notion/Grade Calculator/Course Title c2193bedb82d482aabb70239d0c8ee60_all.csv",
     "Notion/Grade Calculator/English 001 06e1422eb1954fbdabe5e22c302510d3.csv",
