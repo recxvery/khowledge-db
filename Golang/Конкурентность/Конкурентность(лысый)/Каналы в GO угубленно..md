@@ -126,3 +126,5 @@ main goroutine:
 worker goroutine:
     ch <- 5          ← отправляет
 ```
+
+
