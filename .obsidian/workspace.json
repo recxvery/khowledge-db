@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang/Конкурентность/Примитивы синхронизации(балунов)/Waitgroup'ы.md",
+                "file": "Golang/Конкурентность/Конкурентность(nilchan)/race condition, атомики,  мьютексы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Waitgroup'ы"
+              "title": "race condition, атомики,  мьютексы"
             }
           }
         ]
@@ -190,6 +190,10 @@
   },
   "active": "c30947ae4c18af17",
   "lastOpenFiles": [
+    "мусор/Pasted image 20260211163911.png",
+    "мусор/Pasted image 20260211155936.png",
+    "mindset/Статистика.md",
+    "Golang/Конкурентность/Примитивы синхронизации(балунов)/Waitgroup'ы.md",
     "Golang/Конкурентность/Конкурентность(лысый)/Concurrency based.md",
     "Golang/Конкурентность/Конкурентность(лысый)/Аксиомы каналов.md",
     "Golang/Конкурентность/Конкурентность(лысый)/Каналы в GO угубленно..md",
@@ -214,8 +218,6 @@
     "Golang/Конкурентность/Конкурентность(nilchan)/Горутины и каналы.md",
     "Golang/Конкурентность/Конкурентность(nilchan)/Select.md",
     "мусор/Pasted image 20260209031248.png",
-    "Golang/Конкурентность/Примитивы синхронизации(балунов)/Waitgroup'ы.md",
-    "mindset/Статистика.md",
     "мусор/Pasted image 20260208151845.png",
     "мусор/Pasted image 20260208144554.png",
     "Golang/Конкурентность/Примитивы синхронизации(Балунов).md",
@@ -224,9 +226,7 @@
     "мусор/Pasted image 20260204150948.png",
     "мусор/Pasted image 20260203135523.png",
     "Golang/Ввод-Вывод, строки/Ввод-Вывод, строки.md",
-    "Golang/Конкурентность/Конкурентность(лысый)/select(углубленно).md",
     "мусор/Pasted image 20260203124554.png",
-    "мусор/Pasted image 20260203023719.png",
     "copilot/copilot-conversations",
     "copilot",
     "Notion/Grade Calculator/English 001 06e1422eb1954fbdabe5e22c302510d3_all.csv",
