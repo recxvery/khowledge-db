@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang/Конкурентность/Конкурентность(nilchan)/race condition, атомики,  мьютексы.md",
+                "file": "Golang/Конкурентность/Примитивы синхронизации(балунов)/Once().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "race condition, атомики,  мьютексы"
+              "title": "Once()"
+            }
+          },
+          {
+            "id": "312d268d6659d08f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Golang/Конкурентность/Примитивы синхронизации(балунов)/Waitgroup'ы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Waitgroup'ы"
+            }
+          },
+          {
+            "id": "556228697932e55b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mindset/Статистика.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Статистика"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,12 +217,28 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "c30947ae4c18af17",
+  "active": "556228697932e55b",
   "lastOpenFiles": [
-    "мусор/Pasted image 20260211163911.png",
-    "мусор/Pasted image 20260211155936.png",
-    "mindset/Статистика.md",
+    "Golang/Конкурентность/Примитивы синхронизации(балунов)/sync.Cond.md",
+    "мусор/Pasted image 20260216154554.png",
+    "мусор/Pasted image 20260216150857.png",
     "Golang/Конкурентность/Примитивы синхронизации(балунов)/Waitgroup'ы.md",
+    "Golang/Конкурентность/Конкурентность(nilchan)/Ошибки с mutex`ом, deadlock-livelock, wg(балунов).md",
+    "Golang/Конкурентность/Примитивы синхронизации(балунов)/Once().md",
+    "Golang/Конкурентность/Конкурентность(nilchan)/context.md",
+    "mindset/Статистика.md",
+    "мусор/Pasted image 20260216044703.png",
+    "мусор/Pasted image 20260216043206.png",
+    "мусор/Pasted image 20260216042805.png",
+    "мусор/Pasted image 20260216042729.png",
+    "Golang/Конкурентность/Конкурентность(nilchan)/Закрытие каналов. Аксиома каналов.md",
+    "мусор/Pasted image 20260215044119.png",
+    "мусор/Pasted image 20260215044040.png",
+    "мусор/Pasted image 20260215043852.png",
+    "Golang/Конкурентность/Конкурентность(nilchan)/race condition, атомики,  мьютексы.md",
+    "мусор/Pasted image 20260215040007.png",
+    "Golang/Defer.md",
+    "Golang/Конкурентность/Конкурентность(nilchan)/Горутины и каналы.md",
     "Golang/Конкурентность/Конкурентность(лысый)/Concurrency based.md",
     "Golang/Конкурентность/Конкурентность(лысый)/Аксиомы каналов.md",
     "Golang/Конкурентность/Конкурентность(лысый)/Каналы в GO угубленно..md",
@@ -209,24 +254,7 @@
     "Golang/Циклы.md",
     "Golang/Map'ы под капотом.md",
     "Golang/map'ы.md",
-    "Golang/Конкурентность/Конкурентность(nilchan)/race condition, атомики,  мьютексы.md",
-    "мусор/Pasted image 20260209034725.png",
-    "мусор/Pasted image 20260209034702.png",
-    "мусор/Pasted image 20260209034212.png",
-    "Golang/Конкурентность/Конкурентность(nilchan)/Закрытие каналов. Аксиома каналов.md",
-    "Golang/Конкурентность/Конкурентность(nilchan)/context.md",
-    "Golang/Конкурентность/Конкурентность(nilchan)/Горутины и каналы.md",
-    "Golang/Конкурентность/Конкурентность(nilchan)/Select.md",
-    "мусор/Pasted image 20260209031248.png",
-    "мусор/Pasted image 20260208151845.png",
-    "мусор/Pasted image 20260208144554.png",
-    "Golang/Конкурентность/Примитивы синхронизации(Балунов).md",
     "Golang/Конкурентность/Примитивы синхронизации(балунов)",
-    "Golang/Конкурентность/Планировщик(тузов).md",
-    "мусор/Pasted image 20260204150948.png",
-    "мусор/Pasted image 20260203135523.png",
-    "Golang/Ввод-Вывод, строки/Ввод-Вывод, строки.md",
-    "мусор/Pasted image 20260203124554.png",
     "copilot/copilot-conversations",
     "copilot",
     "Notion/Grade Calculator/English 001 06e1422eb1954fbdabe5e22c302510d3_all.csv",
